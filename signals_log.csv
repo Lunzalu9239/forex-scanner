@@ -47,3 +47,18 @@ date,pair,strategy,side,price,verdict
 2026-10-21,USDCHF,MACD momentum,SELL,0.82526,unproven
 2026-10-21,USDCAD,MACD momentum,SELL,1.40531,unproven
 2026-10-21,USDCAD,Bollinger band reversal,BUY,1.40531,unproven
+2026-10-22,EURUSD,Trend following (EMA 20/50),SELL,1.12259,unproven
+2026-10-22,EURUSD,MACD momentum,BUY,1.12259,unproven
+2026-10-22,GBPUSD,MACD momentum,BUY,1.33996,unproven
+2026-10-22,GBPUSD,Bollinger band reversal,SELL,1.33996,unproven
+2026-10-22,USDJPY,Trend following (EMA 20/50),SELL,156.84399,unproven
+2026-10-22,USDJPY,MACD momentum,SELL,156.84399,unproven
+2026-10-22,USDJPY,Bollinger band reversal,BUY,156.84399,unproven
+2026-10-22,AUDUSD,Trend following (EMA 20/50),SELL,0.70175,unproven
+2026-10-22,AUDUSD,MACD momentum,BUY,0.70175,unproven
+2026-10-22,USDCHF,MACD momentum,SELL,0.81994,unproven
+2026-10-22,USDCHF,20-day breakout,SELL,0.81994,unproven
+2026-10-22,USDCHF,Bollinger band reversal,BUY,0.81994,unproven
+2026-10-22,USDCAD,MACD momentum,SELL,1.40191,unproven
+2026-10-22,USDCAD,20-day breakout,SELL,1.40191,unproven
+2026-10-22,USDCAD,Bollinger band reversal,BUY,1.40191,unproven
