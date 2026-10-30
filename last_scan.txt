@@ -1,29 +1,31 @@
 
-=== EURUSD  |  last close 1.1152  |  date 2026-10-29 ===
-  [unproven ] Trend following (EMA 20/50): SELL  (past win rate 55% over 106 signals, avg +0.07%/trade)
-  [unproven ] MACD momentum: BUY  (past win rate 44% over 194 signals, avg -0.12%/trade)
+=== EURUSD  |  last close 1.1203  |  date 2026-10-30 ===
+  [unproven ] Trend following (EMA 20/50): SELL  (past win rate 51% over 107 signals, avg +0.02%/trade)
+  [unproven ] MACD momentum: BUY  (past win rate 43% over 194 signals, avg -0.12%/trade)
   -> Suggested move: NO TRADE (no strategy with a proven history is active)
 
-=== GBPUSD  |  last close 1.3327  |  date 2026-10-29 ===
-  [unproven ] Trend following (EMA 20/50): SELL  (past win rate 54% over 105 signals, avg +0.02%/trade)
-  [unproven ] MACD momentum: BUY  (past win rate 57% over 160 signals, avg +0.13%/trade)
+=== GBPUSD  |  last close 1.3432  |  date 2026-10-30 ===
+  [unproven ] MACD momentum: BUY  (past win rate 57% over 160 signals, avg +0.12%/trade)
+  [unproven ] 20-day breakout: BUY  (past win rate 45% over 97 signals, avg -0.02%/trade)
   -> Suggested move: NO TRADE (no strategy with a proven history is active)
 
-=== USDJPY  |  last close 157.9810  |  date 2026-10-29 ===
-  [unproven ] MACD momentum: SELL  (past win rate 45% over 183 signals, avg -0.05%/trade)
+=== USDJPY  |  last close 157.0760  |  date 2026-10-30 ===
+  [unproven ] Trend following (EMA 20/50): SELL  (past win rate 51% over 98 signals, avg +0.11%/trade)
+  [unproven ] MACD momentum: SELL  (past win rate 45% over 186 signals, avg -0.05%/trade)
   -> Suggested move: NO TRADE (no strategy with a proven history is active)
 
-=== AUDUSD  |  last close 0.7041  |  date 2026-10-29 ===
-  [unproven ] MACD momentum: BUY  (past win rate 52% over 166 signals, avg -0.05%/trade)
+=== AUDUSD  |  last close 0.7042  |  date 2026-10-30 ===
+  [unproven ] MACD momentum: BUY  (past win rate 52% over 165 signals, avg -0.03%/trade)
+  [unproven ] 20-day breakout: BUY  (past win rate 37% over 90 signals, avg -0.48%/trade)
   -> Suggested move: NO TRADE (no strategy with a proven history is active)
 
-=== USDCHF  |  last close 0.8280  |  date 2026-10-29 ===
-  [unproven ] Trend following (EMA 20/50): BUY  (past win rate 45% over 119 signals, avg -0.12%/trade)
-  [unproven ] MACD momentum: SELL  (past win rate 47% over 156 signals, avg +0.03%/trade)
+=== USDCHF  |  last close 0.8211  |  date 2026-10-30 ===
+  [unproven ] MACD momentum: SELL  (past win rate 46% over 162 signals, avg +0.01%/trade)
   -> Suggested move: NO TRADE (no strategy with a proven history is active)
 
-=== USDCAD  |  last close 1.3979  |  date 2026-10-29 ===
-  [unproven ] MACD momentum: SELL  (past win rate 45% over 164 signals, avg -0.13%/trade)
+=== USDCAD  |  last close 1.3952  |  date 2026-10-30 ===
+  [unproven ] MACD momentum: SELL  (past win rate 45% over 167 signals, avg -0.13%/trade)
+  [unproven ] 20-day breakout: SELL  (past win rate 45% over 95 signals, avg -0.08%/trade)
   -> Suggested move: NO TRADE (no strategy with a proven history is active)
 
 Signals logged to signals_log.csv (check them later to see how they really did).
