@@ -130,3 +130,14 @@ date,pair,strategy,side,price,verdict
 2026-10-30,USDCHF,MACD momentum,SELL,0.8211,unproven
 2026-10-30,USDCAD,MACD momentum,SELL,1.39518,unproven
 2026-10-30,USDCAD,20-day breakout,SELL,1.39518,unproven
+2026-11-02,EURUSD,Trend following (EMA 20/50),SELL,1.12196,unproven
+2026-11-02,EURUSD,MACD momentum,BUY,1.12196,unproven
+2026-11-02,GBPUSD,MACD momentum,BUY,1.34198,unproven
+2026-11-02,USDJPY,Trend following (EMA 20/50),SELL,157.884,unproven
+2026-11-02,USDJPY,MACD momentum,SELL,157.884,unproven
+2026-11-02,AUDUSD,Trend following (EMA 20/50),SELL,0.70087,unproven
+2026-11-02,AUDUSD,MACD momentum,BUY,0.70087,unproven
+2026-11-02,AUDUSD,20-day breakout,BUY,0.70087,unproven
+2026-10-30,USDCHF,Trend following (EMA 20/50),BUY,0.82361,unproven
+2026-10-30,USDCHF,MACD momentum,SELL,0.82361,unproven
+2026-11-02,USDCAD,MACD momentum,SELL,1.39744,unproven
