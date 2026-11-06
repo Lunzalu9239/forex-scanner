@@ -1,28 +1,29 @@
 
-=== EURUSD  |  last close 1.1226  |  date 2026-11-05 ===
-  [unproven ] Trend following (EMA 20/50): SELL  (past win rate 54% over 106 signals, avg +0.05%/trade)
-  [unproven ] MACD momentum: BUY  (past win rate 44% over 191 signals, avg -0.11%/trade)
+=== EURUSD  |  last close 1.1178  |  date 2026-11-06 ===
+  [unproven ] Trend following (EMA 20/50): SELL  (past win rate 56% over 104 signals, avg +0.09%/trade)
+  [unproven ] MACD momentum: BUY  (past win rate 44% over 189 signals, avg -0.11%/trade)
   -> Suggested move: NO TRADE (no strategy with a proven history is active)
 
-=== GBPUSD  |  last close 1.3469  |  date 2026-11-05 ===
-  [unproven ] MACD momentum: BUY  (past win rate 57% over 159 signals, avg +0.14%/trade)
+=== GBPUSD  |  last close 1.3397  |  date 2026-11-06 ===
+  [unproven ] MACD momentum: BUY  (past win rate 58% over 159 signals, avg +0.15%/trade)
   -> Suggested move: NO TRADE (no strategy with a proven history is active)
 
-=== USDJPY  |  last close 158.4240  |  date 2026-11-05 ===
+=== USDJPY  |  last close 158.3320  |  date 2026-11-06 ===
   [unproven ] MACD momentum: BUY  (past win rate 45% over 186 signals, avg -0.05%/trade)
   -> Suggested move: NO TRADE (no strategy with a proven history is active)
 
-=== AUDUSD  |  last close 0.7001  |  date 2026-11-05 ===
-  [unproven ] Trend following (EMA 20/50): SELL  (past win rate 48% over 111 signals, avg -0.25%/trade)
-  [unproven ] MACD momentum: BUY  (past win rate 52% over 165 signals, avg -0.04%/trade)
+=== AUDUSD  |  last close 0.6884  |  date 2026-11-06 ===
+  [unproven ] Trend following (EMA 20/50): SELL  (past win rate 49% over 113 signals, avg -0.21%/trade)
+  [unproven ] MACD momentum: SELL  (past win rate 51% over 167 signals, avg -0.05%/trade)
+  [unproven ] 20-day breakout: SELL  (past win rate 37% over 90 signals, avg -0.46%/trade)
+  [unproven ] Bollinger band reversal: BUY  (past win rate 50% over 102 signals, avg +0.05%/trade)
   -> Suggested move: NO TRADE (no strategy with a proven history is active)
 
-=== USDCHF  |  last close 0.8177  |  date 2026-11-05 ===
-  [unproven ] MACD momentum: SELL  (past win rate 46% over 162 signals, avg +0.02%/trade)
+=== USDCHF  |  last close 0.8181  |  date 2026-11-06 ===
+  [unproven ] MACD momentum: SELL  (past win rate 45% over 163 signals, avg +0.01%/trade)
   -> Suggested move: NO TRADE (no strategy with a proven history is active)
 
-=== USDCAD  |  last close 1.3972  |  date 2026-11-05 ===
-  [unproven ] Trend following (EMA 20/50): SELL  (past win rate 54% over 116 signals, avg +0.04%/trade)
+=== USDCAD  |  last close 1.4059  |  date 2026-11-06 ===
   [unproven ] MACD momentum: SELL  (past win rate 46% over 164 signals, avg -0.12%/trade)
   -> Suggested move: NO TRADE (no strategy with a proven history is active)
 
